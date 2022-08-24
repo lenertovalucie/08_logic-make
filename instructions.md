@@ -4,9 +4,9 @@
 
 - uložte barvu vašich očí a barvu vašich vlasů do dvou proměnných
 - požádejte uživatele, aby tyto hodnoty uhádl a uložte jejich odpovědi do dalších proměnných
-- vypište výstup "You guessed them both", pokud uživatel uhodne obě hodnoty
-- vypište výstup "You have one right", pokud uživatel uhodne jednu správně
-- vypište výstup  "You didn't get any right", pokud uživatel neuhodne žádnou hodnotu
+- vypište výstup "You guessed them both.", pokud uživatel uhodne obě hodnoty
+- vypište výstup "You have one right.", pokud uživatel uhodne jednu správně
+- vypište výstup  "You didn't get any right.", pokud uživatel neuhodne žádnou hodnotu
 
 ### Kód nefunguje? 
 
